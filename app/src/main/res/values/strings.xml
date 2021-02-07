@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="team_m">Team M</string>
+    <string name="thien_s_profile">Thien\'s Profile</string>
+    <string name="brianna_s_profile">Brianna\'s Profile</string>
+    <string name="sang_s_profile">Sang\'s Profile</string>
+    <string name="click_in_one_of_the_below_button_to_see_our_member_s_profile">Click in one of the below button to see our member\'s profile</string>
+    <string name="hi_my_name_is_thien_le_i_m_19_currently_i_m_in_the_second_year_of_computing_science_in_tru">Hi! My name is Thien Le, I\'m 19. Currently, I\'m in the second year of Computing Science in TRU.</string>
+    <string name="pictureofthien">pictureOfThien</string>
 </resources>
