@@ -8,27 +8,31 @@
 
     <TextView
         android:id="@+id/uyen"
-        android:layout_width="386dp"
-        android:layout_height="220dp"
-        android:layout_marginTop="60dp"
+        android:layout_width="376dp"
+        android:layout_height="207dp"
+        android:layout_marginTop="40dp"
         android:text="@string/hi_my_name_is_uyen_pham_but_you_can_call_me_brianna_i_am_22_this_year_currently_i_am_in_the_second_year_of_computing_science_at_thompson_rivers_university_at_the_moment_i_live_in_kamloops_with_a_homestay_family"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.482"
+        app:layout_constraintHorizontal_bias="0.36"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/uyenImage"
-        android:layout_width="321dp"
-        android:layout_height="388dp"
+        android:layout_width="348dp"
+        android:layout_height="322dp"
         android:layout_marginTop="44dp"
         android:contentDescription="@string/todo1"
+        android:scrollbarAlwaysDrawHorizontalTrack="true"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/uyen"
+        app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/uyen" />
 </androidx.constraintlayout.widget.ConstraintLayout>
