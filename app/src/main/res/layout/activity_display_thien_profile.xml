@@ -26,6 +26,7 @@
         android:lineSpacingExtra="10sp"
         android:text="@string/hi_my_name_is_thien_le_i_m_19_currently_i_m_in_the_second_year_of_computing_science_in_tru"
         android:textAlignment="center"
+        android:textColor="@color/black"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"

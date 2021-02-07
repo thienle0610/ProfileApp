@@ -2,9 +2,11 @@
     <string name="app_name">My Application</string>
     <string name="team_m">Team M</string>
     <string name="thien_s_profile">Thien\'s Profile</string>
-    <string name="brianna_s_profile">Brianna\'s Profile</string>
     <string name="sang_s_profile">Sang\'s Profile</string>
     <string name="click_in_one_of_the_below_button_to_see_our_member_s_profile">Click in one of the below button to see our member\'s profile</string>
     <string name="hi_my_name_is_thien_le_i_m_19_currently_i_m_in_the_second_year_of_computing_science_in_tru">Hi! My name is Thien Le, I\'m 19. Currently, I\'m in the second year of Computing Science in TRU.</string>
     <string name="pictureofthien">pictureOfThien</string>
+    <string name="uyen_s_profile">UYEN\'S PROFILE</string>
+    <string name="hi_my_name_is_uyen_pham_but_you_can_call_me_brianna_i_am_22_this_year_currently_i_am_in_the_second_year_of_computing_science_at_thompson_rivers_university_at_the_moment_i_live_in_kamloops_with_a_homestay_family">Hi! My name is Uyen Pham, but you can call me Brianna. I am 22 this year. Currently, I am in the second year of Computing Science at Thompson Rivers University. At the moment, I live in Kamloops with a homestay family.</string>
+    <string name="todo1">TODO</string>
 </resources>
