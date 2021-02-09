@@ -23,11 +23,12 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="395dp"
-        android:layout_height="618dp"
+        android:layout_width="376dp"
+        android:layout_height="525dp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.625"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/sang"
-        tools:layout_editor_absoluteY="112dp" />
+        app:srcCompat="@drawable/sang" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
