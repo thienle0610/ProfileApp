@@ -26,5 +26,8 @@ public class MainActivity extends AppCompatActivity {
             Intent in = new Intent(this, UyenProfile.class);
             startActivity(in);
         }
-
+        public void sendSangProfile(View v){
+            Intent intents = new Intent(this, SangProfile.class);
+            startActivity(intents);
+        }
 }
