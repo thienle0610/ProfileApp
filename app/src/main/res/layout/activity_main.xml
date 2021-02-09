@@ -58,6 +58,7 @@
         android:id="@+id/profileBtn3"
         android:layout_width="275dp"
         android:layout_height="55dp"
+        android:onClick="sendSangProfile"
         android:text="@string/sang_s_profile"
         android:textSize="24sp"
         android:textStyle="bold"
